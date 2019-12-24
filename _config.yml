@@ -1,0 +1,15 @@
+url: https://ludanlovefang.github.io
+baseurl: 
+
+# Site Settings
+title: Demi & Haha
+description: "Love with Demi"
+keywords: "jekyll, theme"
+google-tracking-id:
+
+# Career Settings
+# Default career thumbnail image.
+career-img: "img/timeline/default.jpg"
+author: Shawn
+#exclude: ["Rakefile", "LICENSE", "readme.markdown","about.html","contact.html"]
+exclude: ["Rakefile", "LICENSE", "readme.markdown","contact.html"]
