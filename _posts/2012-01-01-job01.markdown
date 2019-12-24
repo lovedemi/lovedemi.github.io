@@ -1,7 +1,7 @@
 ---
 layout: null
-title: Oct 29th 2016
+title: Dec 17th 2019
 subtitle:
 image: "img/timeline/2.jpg"
 ---
-New England Aquarium & Boston Duck Tour
+Lincoln Zoo
