@@ -1,6 +1,6 @@
 ---
 layout: null
-title: Dec 17th 2019
+title: Dec 19th 2019
 subtitle:
 image: "img/timeline/3.jpg"
 ---
